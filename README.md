@@ -2,11 +2,11 @@
 
 A real-time chat application. Another fun  project :)
 
-![](https://user-images.githubusercontent.com/66206865/188901222-8eefabe5-8ca2-4305-aeb3-3afa37b304b3.png)
+<img width="821" alt="Screenshot 2023-07-16 000008" src="https://github.com/snehil0sinha1/real-time-chat-application/assets/121855532/92e2a3a5-701f-44de-b631-5dfaa94bfdc4">
 
-![](https://user-images.githubusercontent.com/66206865/188900580-01d0d3ca-b242-4f48-99cf-96edeeb5f1db.png)
+<img width="825" alt="Screenshot 2023-07-16 000059" src="https://github.com/snehil0sinha1/real-time-chat-application/assets/121855532/24a933fe-9bbb-4f31-94c7-827f6e77a85c">
 
-GIFs are attached at the end.
+
 
 ## Technologies Used
 
@@ -56,10 +56,3 @@ To run this project locally, follow these steps:
 
 Please make sure to keep the `serviceAccountKey.json` file and sensitive information secure and not commit them to version control.
 
-## GIFs
-
-![chrome-capture](https://user-images.githubusercontent.com/66206865/188901119-65a05b65-3c76-4c3f-92c5-042d061df8e1.gif)
-
-![chrome-capture](https://user-images.githubusercontent.com/66206865/188900841-2dfe91c2-eb78-4f70-a013-babe0124ee68.gif)
-
-![chrome-capture](https://user-images.githubusercontent.com/66206865/188900662-a120aef4-ced1-442b-98dd-ab90b4cea7b5.gif)
